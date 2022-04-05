@@ -1,0 +1,45 @@
+header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: azure;
+}
+
+body {
+    padding-left: 15px;
+    background-color: rgb(40, 92, 107);
+}
+
+.content {
+    padding-left: 30px;
+    padding-top: 100px;
+}
+
+.post {
+    padding: 8px;
+    background-color: rgba(255, 255, 239, 0.897);
+    width: fit-content;
+    margin-bottom: 20px;
+}
+
+.post .date {
+    color: darkgray;
+    font-size:x-small;
+}
+
+.post .content {
+    padding-top: 10px;
+    padding-left: 0%;
+    color: rgb(54, 54, 54);
+    font-size: larger;
+}
+
+h1 a {
+    color: #218989;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 a {
+    color:coral;
+}
